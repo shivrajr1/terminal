@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+#root{
+    font-size: 20px;
+    padding: 10px;
+    min-height: 100vh;
+    background-color: black;
+    color: #fff;
+    font-family:monospace; 
+}
+.suggestion_box{
+    padding: 10px;
+    color: green;
+}
+.span_input{
+    display: flex;
+}
+/* .changed_div{
+    display: flex;
+} */
+.span{
+    text-align: center;
+}
+.inpt{
+    font-size: 20px;
+    font-family:monospace;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: none;
+    box-sizing: border-box;
+    flex-grow: 1;
+}
+.error_command{
+    padding:5px 0;
+    color: red;
+}

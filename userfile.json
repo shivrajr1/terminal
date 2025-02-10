@@ -1,0 +1,99 @@
+{
+  "user": "Admin",
+  "data": {
+    "name": "root",
+    "url": "https://www.google.com/search?q=root",
+    "parent": null,
+    "child": [
+      {
+        "name": "node1",
+        "url": "https://www.google.com/search?q=node1",
+        "parent": null,
+        "child": [
+          {
+            "name": "node1.1",
+            "url": "https://www.google.com/search?q=node1.1",
+            "parent": null,
+            "child": [
+              {
+                "name": "node1.1.1",
+                "url": "https://www.google.com/search?q=node1.1.1",
+                "parent": null,
+                "child": []
+              },
+              {
+                "name": "node1.1.2",
+                "url": "https://www.google.com/search?q=node1.1.2",
+                "parent": null,
+                "child": []
+              }
+            ]
+          },
+          {
+            "name": "node1.2",
+            "url": "https://www.google.com/search?q=node1.2",
+            "child": [
+              {
+                "name": "node1.2.1",
+                "url": "https://www.google.com/search?q=node1.2.1",
+                "parent": null,
+                "child": []
+              },
+              {
+                "name": "node1.2.2",
+                "url": "https://www.google.com/search?q=node1.2.2",
+                "parent": null,
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "node2",
+        "url": "https://www.google.com/search?q=node2",
+        "parent": null,
+        "child": [
+          {
+            "name": "node2.1",
+            "url": "https://www.google.com/search?q=node2.1",
+            "parent": null,
+            "child": [
+              {
+                "name": "node2.1.1",
+                "url": "https://www.google.com/search?q=node2.1.1",
+                "parent": null,
+                "child": []
+              },
+              {
+                "name": "node2.1.2",
+                "url": "https://www.google.com/search?q=nod2.1.2",
+                "parent": null,
+                "child": []
+              }
+            ]
+          },
+          {
+            "name": "node2.2",
+            "url": "https://www.google.com/search?q=node2.2",
+            "parent": null,
+            "child": [
+              {
+                "name": "node2.2.1",
+                "url": "https://www.google.com/search?q=node2.2.1",
+                "parent": null,
+                "child": []
+              },
+              {
+                "name": "node2.2.2",
+                "url": "https://www.google.com/search?q=node2.2.2",
+                "parent": null,
+                "child": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
